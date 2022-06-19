@@ -3,4 +3,4 @@
 - .NET6 C# 10
 - WPF
 - Client - Server - Client
-- Release this summer
+- Release BETA WINTER 2022
