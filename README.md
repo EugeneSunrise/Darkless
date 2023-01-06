@@ -3,7 +3,7 @@
 - .NET6 C# 10
 - WPF
 - Client - Server - Client
-- Release BETA WINTER 2022
+- Project frozen until spring 2023
 
 # Showcase
 
