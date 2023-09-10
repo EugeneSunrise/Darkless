@@ -5,7 +5,7 @@
 - WPF
 - Client - Server - Client
 - The builder will be written in Native AOT(Still thinking about this)
-- Release ~summer 2023
+- Release ~winter 2023
 
 # Showcase
 
