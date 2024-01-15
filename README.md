@@ -1,11 +1,11 @@
 # Darkless
 ~~Remote Access Trojan~~ Remote Administration Tool
-- .NET7 C# 11
+- .NET8
 - MVVM
 - WPF
 - Client - Server - Client
 - The builder will be written in Native AOT(Still thinking about this)
-- Release ~winter 2023
+- MVP 2024
 
 # Showcase
 
